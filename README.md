@@ -1,7 +1,7 @@
 ## Andrew Estornell
 
 
-[CV](.cv.pdf)
+[CV](https://andrewEstornell.github.io/cv.pdf)
 
 
 ## Publications
