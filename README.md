@@ -1,38 +1,28 @@
-## Welcome to GitHub Pages
+## Andrew Estornell
 
-You can use the [editor on GitHub](https://github.com/andrewEstornell/andrewEstornell.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[CV](.cv.pdf)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+**Published**
 
-```markdown
-Syntax highlighted code block
+-[1] Andrew Estornell, Sanmay Das, Yevgeniy Vorobeychik. Incentivizing Truthfulness Through Audits in Strategic Classification. Conference on Artificial Intelligence (AAAI) 2021.
 
-# Header 1
-## Header 2
-### Header 3
+-[2] Andrew Estornell, Sanmay Das, Edith Elkind, Yevgeniy Vorobeychik. Election Control by Manipulating Issue Significance. Conference on Uncertainty in Artificial Intelligence (UAI) 2020.
 
-- Bulleted
-- List
+-[3] Andrew Estornell, Sanmay Das, Yevgeniy Vorobeychik. Deception Through Half-Truths. Conference on Artificial Intelligence (AAAI) 2020.
 
-1. Numbered
-2. List
+-[4] Andrew Estornell, Zachary Cline, Chelsea Walton, Matthew Wynne.PBW Deformations of Quadratic Monomial Algebras. Communications in Algebra 2019.
 
-**Bold** and _Italic_ and `Code` text
+[5] Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik. Manipulating Elections by Changing Voter Perceptions. International Joint Conference on Artificial Intelligence (IJCAI) 2022
 
-[Link](url) and ![Image](src)
-```
+**In Review**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[6] Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents
 
-### Jekyll Themes
+[7] Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik 2022. Individual Impacts of Group Fairness in Machine Learning.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewEstornell/andrewEstornell.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**In Prep**
 
-### Support or Contact
-dsf
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[8] Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik, 2022. Popularizing Fairness: Group Fairness and Individual Welfare.
