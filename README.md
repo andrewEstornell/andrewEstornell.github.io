@@ -15,14 +15,14 @@
 
 -[4] Andrew Estornell, Zachary Cline, Chelsea Walton, Matthew Wynne.PBW Deformations of Quadratic Monomial Algebras. Communications in Algebra 2019.
 
-[5] Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik. Manipulating Elections by Changing Voter Perceptions. International Joint Conference on Artificial Intelligence (IJCAI) 2022
+-[5] Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik. Manipulating Elections by Changing Voter Perceptions. International Joint Conference on Artificial Intelligence (IJCAI) 2022
 
 **In Review**
 
-[6] Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents
+-[6] Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents
 
-[7] Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik 2022. Individual Impacts of Group Fairness in Machine Learning.
+-[7] Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik 2022. Individual Impacts of Group Fairness in Machine Learning.
 
-**In Prep**
+-[8] Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik, 2022. Popularizing Fairness: Group Fairness and Individual Welfare.
 
-[8] Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik, 2022. Popularizing Fairness: Group Fairness and Individual Welfare.
+-[9] Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychick, 2022. Location Spoofing Attacks on Autonomous Fleets.
