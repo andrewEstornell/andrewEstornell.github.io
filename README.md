@@ -3,6 +3,7 @@
 
 [CV](https://andrewEstornell.github.io/cv.pdf)
 
+![photo]([/assets/img/MarineGEO_logo.png](https://andrewEstornell.github.io/IMG_1805.jpg photo")
 
 ## Publications
 **Published**
