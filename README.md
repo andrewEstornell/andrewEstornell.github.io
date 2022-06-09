@@ -1,5 +1,3 @@
-## Andrew Estornell
-
 
 [CV](https://andrewEstornell.github.io/cv.pdf)
 
