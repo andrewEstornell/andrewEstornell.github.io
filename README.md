@@ -3,6 +3,7 @@
 
 [CV](https://andrewEstornell.github.io/cv.pdf)
 
+<img src="https://andrewEstornell.github.io/IMG_1805.jpg" alt="drawing" width="200"/>
 ![photo](https://andrewEstornell.github.io/IMG_1805.jpg "photo")
 
 ## Publications
