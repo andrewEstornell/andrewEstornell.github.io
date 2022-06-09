@@ -1,7 +1,14 @@
 
-[CV](https://andrewEstornell.github.io/cv.pdf)
+## Andrew Estornell
 
 <img src="https://andrewEstornell.github.io/IMG_1805.jpg" alt="drawing" width="150"/>
+
+[CV](https://andrewEstornell.github.io/cv.pdf)
+
+## Research Interests
+
+My interests fall boradlly within the fields of Stratigic Classification and Algorithm Fairness.  
+When deploying fair models in practice the consideration of potential manipulations or stratigic behavior from those interacting with the model, is vital to the efficacy of 
 
 ## Publications
 **Published**
