@@ -10,10 +10,7 @@
 
 I am currently a fifth year PhD student studying Computer Science at Washington University in St Louis with my advisors Yevgeniy Vorobeychik and Sanmay Das.
 
-My interests fall broadly within the fields of Machine Learning, Game Theory, Strategic Classification, and Algorithmic Fairness.  
-Recently my work has focused on Strategic Classification and Algorithmic Fairness with an emphasis on how these two fields relate to one another. 
-When deploying decision-making systems in practice, particularly in domains where people interact directly with these systems, both the fairness of the system and the potential for system manipulation are curtail to successful deployment.
-Decision-making systems which adhere to notions of fairness create unique and interesting challenges, compared to decision-making systems which do not consider fairness, such as the unique ways in which fairness incentivizes agents to strategically manipulate the system, or the ways in which such manipulations affect not only the system's performance, but also the system's fairness.
+My interests fall broadly within the fields of Machine Learning, Game Theory, Strategic Classification, and Algorithmic Fairness. Recently my work has focused on Strategic Classification and Algorithmic Fairness with an emphasis on how these two fields relate to one another. When deploying decision-making systems in practice, particularly in domains where people interact directly with these systems, both the fairness of the system and the potential for system manipulation are curtail to successful deployment. Decision-making systems which adhere to notions of fairness create unique and interesting challenges, compared to decision-making systems which do not consider fairness, such as the unique ways in which fairness incentivizes agents to strategically manipulate the system, or the ways in which such manipulations affect not only the system's performance, but also the system's fairness.
 
 ## Publications
 **Published**
@@ -36,4 +33,4 @@ Decision-making systems which adhere to notions of fairness create unique and in
 
 -[8] Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik, 2022. Popularizing Fairness: Group Fairness and Individual Welfare. 
 
--[9] Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychick, 2022. Location Spoofing Attacks on Autonomous Fleets.
+-[9] Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychik, 2022. Location Spoofing Attacks on Autonomous Fleets.
