@@ -9,6 +9,7 @@ Andrew Estornell
 ## Interests and Background
 
 I am currently a fifth year PhD student studying Computer Science at Washington University in St Louis with my advisors Yevgeniy Vorobeychik and Sanmay Das.
+
 My interests fall broadly within the fields of Machine Learning, Game Theory, Strategic Classification, and Algorithmic Fairness.  
 Recently my work has focused on Strategic Classification and Algorithmic Fairness with an emphasis on how these two fields relate to one another. 
 When deploying decision-making systems in practice, particularly in domains where people interact directly with these systems, both the fairness of the system and the potential for system manipulation are curtail to successful deployment.
