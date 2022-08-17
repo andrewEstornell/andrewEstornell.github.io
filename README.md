@@ -27,7 +27,7 @@ My interests fall broadly within the fields of Machine Learning, Optimization, G
 
 **In Review/Prep**
 
--[6] Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents. [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
+-[6] Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents. Appeared at, Learning with Strategic Agents Workshop (LSA) and Strategic Machine Learning Workshop (StratML) [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
 
 -[7] Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik 2022. Individual Impacts of Group Fairness in Machine Learning.
 
