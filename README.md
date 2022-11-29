@@ -15,7 +15,7 @@ My interests fall broadly within the fields of Machine Learning, Optimization, G
 ## Publications
 **Published**
 
--[1] Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik. Individual Impacts of Group Fairness in Machine Learning.  [To appear] Conference on Artificial Intelligence (AAAI) 2023.
+-[1] Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik, 2022. Popularizing Fairness: Group Fairness and Individual Welfare. [To appear] Conference on Artificial Intelligence (AAAI) 2023.
 
 -[2] Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik. Manipulating Elections by Changing Voter Perceptions. International Joint Conference on Artificial Intelligence (IJCAI) 2022. [[paper link]](https://arxiv.org/pdf/2205.00102.pdf)
 
@@ -32,6 +32,6 @@ My interests fall broadly within the fields of Machine Learning, Optimization, G
 
 -[7] Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents. Appeared at, Learning with Strategic Agents Workshop (LSA) and Strategic Machine Learning Workshop (StratML) [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
 
--[8] Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik, 2022. Popularizing Fairness: Group Fairness and Individual Welfare. 
+-[8] Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik, 2022. Individual Impacts of Group Fairness in Machine Learning.
 
 -[9] Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychik, 2022. Location Spoofing Attacks on Autonomous Fleets.
