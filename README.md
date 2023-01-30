@@ -36,6 +36,7 @@ I am a fifth year PhD student studying Computer Science at Washington University
 
 
 **Under Review**
+
 -[9] Incentivizing Recourse through Auditing in Strategic Classification. Andrew Estornell, Sanmay Das, Yang Liu, Yatong Chen, Yevgeniy Vorobeychik. 2023 
 
 -[10] Location Spoofing Attacks on Autonomous Fleets, Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychik. 2022
