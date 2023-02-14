@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Andrew Estornell
 description: [Algorithmic Fairness], [Adversarial Machine Learning], [Strategic Classification], [Game Theory], [Reinformcment Learning]
-github_hide: true # hides "View on Github"
+github_hide: true 
+show_downloads: false
