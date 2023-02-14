@@ -1,5 +1,4 @@
- theme: jekyll-theme-cayman
-
+theme: jekyll-theme-minimal
 title: The title of your site
 description: A short description of your sites purpose
 github_hide: true # hides "View on Github"
