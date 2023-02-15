@@ -36,7 +36,7 @@ I am a fifth year PhD student studying Computer Science at Washington University
 
 ### Preprints
 
-**[8] Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents.** Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Appeared at, Learning with Strategic Agents Workshop (LSA at AAMAS 2022) and Strategic Machine Learning Workshop (StratML at NeurIPS 2021) [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
+**[8] Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents.** Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Appeared at, Learning with Strategic Agents Workshop **<sub>best paper award</sub>**(LSA at AAMAS 2022) and Strategic Machine Learning Workshop (StratML at NeurIPS 2021) [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
 
 **[9] Individual Impacts of Group Fairness in Machine Learning.** Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik, 2022. 
 
