@@ -19,12 +19,16 @@ author: Andrew Estornell
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-#   Author's home: "https://deanattali.com"
+navbar-links:
+  CV: "Andrew_Estornell_CV(2023).pdf"
+  Google Scholar: "https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao"
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
+
+
 
 ################
 # --- Logo --- #
@@ -52,7 +56,7 @@ social-network-links:
   email: aestornell (at) wustl (dot) edu
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-github: https://github.com/andrewEstornell
+  github: https://github.com/andrewEstornell
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -72,7 +76,7 @@ github: https://github.com/andrewEstornell
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-google-scholar: https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao
+  google-scholar: https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
