@@ -83,10 +83,10 @@ author:
   name             : "Andrew Estornell"
   avatar           : "img.jpg"
   bio              : "Computer Science Ph.D student"
-  location         : "St Louis Missori"
+  location         : #"St Louis Missori"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao"
+  googlescholar    : # "https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao"
   email            : "aestornell (at) wustl (dot) edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/andrewEstornell"
+  github           : # "https://github.com/andrewEstornell"
   google_plus      :
   keybase          :
   instagram        :
@@ -261,7 +261,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
