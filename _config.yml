@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://andrewEstornell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrewEstornell/andrewEstornell.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "img.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Estornell"
-  avatar           : "asdfdafsdimg.jpg"
+  avatar           : "img.jpg"
   bio              : "Computer Science Ph.D student"
   location         : #"St Louis Missori"
   employer         :
