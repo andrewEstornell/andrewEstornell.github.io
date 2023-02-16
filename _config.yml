@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Estornell"
-  avatar           : # "img.jpg"
+  avatar           : "img.jpg"
   bio              : "Computer Science Ph.D student"
   location         : #"St Louis Missori"
   employer         :
