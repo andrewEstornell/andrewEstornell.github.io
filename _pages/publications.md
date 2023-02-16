@@ -25,11 +25,12 @@ author_profile: true
 
 ### Pre-Prints and Under Review
 
-**[8] Incentivizing Recourse through Auditing in Strategic Classification.** Andrew Estornell, Sanmay Das, Yang Liu, Yatong Chen, Yevgeniy Vorobeychik. 2023 
+**[8] Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents.** Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Appeared at, Learning with Strategic Agents Workshop **best paper award** (LSA at AAMAS 2022) and Strategic Machine Learning Workshop (StratML at NeurIPS 2021) [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
 
-**[9] Which Features are the Fairest of them All? The Impact of Features Used by Algorithms on Perceptions of Fairness.** Andrew Estornell, Tina Zhang, Sanmay Das, Chien-Ju Ho, Brendan Juba, Yevgeniy Vorobeychik. 2023
+**[9] Incentivizing Recourse through Auditing in Strategic Classification.** Andrew Estornell, Sanmay Das, Yang Liu, Yatong Chen, Yevgeniy Vorobeychik. 2023 
 
-**[10] Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents.** Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Appeared at, Learning with Strategic Agents Workshop **best paper award** (LSA at AAMAS 2022) and Strategic Machine Learning Workshop (StratML at NeurIPS 2021) [[paper link]](https://arxiv.org/pdf/2112.02746.pdf)
+**[10] Which Features are the Fairest of them All? The Impact of Features Used by Algorithms on Perceptions of Fairness.** Andrew Estornell, Tina Zhang, Sanmay Das, Chien-Ju Ho, Brendan Juba, Yevgeniy Vorobeychik. 2023
+
 
 **[11] Individual Impacts of Group Fairness in Machine Learning.** Andrew Estornell, Sanmay Das, Patrick Fowler, Brendan Juba, Pauline Kim, Yevgeniy Vorobeychik, 2022. 
 
