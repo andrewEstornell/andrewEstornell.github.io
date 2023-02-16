@@ -177,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: "Andrew_Estornell_CV(2023).pdf"
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-#   talks:
-#     output: true
-#     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
