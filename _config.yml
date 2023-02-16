@@ -52,7 +52,7 @@ social-network-links:
   email: aestornell (at) wustl (dot) edu
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
+github: https://github.com/andrewEstornell
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -72,7 +72,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?hl=en&user=SSW02WEAAAAJ&view_op=list_works
+google-scholar: https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -106,7 +106,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
