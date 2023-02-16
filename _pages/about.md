@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Research Interests and Background:
-======
+
 I am a fifth-year PhD student studying Computer Science at Washington University in St Louis with my advisors Yevgeniy Vorobeychik and Sanmay Das. 
 My research interests fall broadly within the fields of Algorithmic Fairness, Adversarial Machine Learning, Optimization, Game Theory, and Strategic Classification.
 I enjoy working on problems from both a theoretical and applied perspective, especially those involving the use of Machine Learning in novel or unexpected ways, and those involving multiple strategic agents. 
