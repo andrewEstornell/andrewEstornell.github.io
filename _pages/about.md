@@ -24,7 +24,7 @@ Outside of my thesis work I have recently been pursuing Adversarial Machine Lear
 ------
 ### Published
 
-**[1] Popularizing Fairness: Group Fairness and Individual Welfare.** Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik. Conference on Artificial Intelligence (AAAI) 2023. [[paper link]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SSW02WEAAAAJ&citation_for_view=SSW02WEAAAAJ:UeHWp8X0CEIC)
+**[1] Popularizing Fairness: Group Fairness and Individual Welfare.** Andrew Estornell, Sanmay Das, Brendan Juba, Yevgeniy Vorobeychik. Conference on Artificial Intelligence (AAAI) 2023. [[link]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SSW02WEAAAAJ&citation_for_view=SSW02WEAAAAJ:UeHWp8X0CEIC) [[pdf]](\_publications/pdfs/PopularFairness2023.pdf)
 
 **[2] Location Spoofing Attacks on Autonomous Fleets.** Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychik. Conference on Vehicle Security and Privacy (VehicleSec) 2023 \[TO APPEAR\]
 
