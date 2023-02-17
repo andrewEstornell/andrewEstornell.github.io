@@ -28,12 +28,12 @@ Outside of my thesis work I have recently been pursuing Adversarial Machine Lear
 
 **[2] Location Spoofing Attacks on Autonomous Fleets.** Jinghan Yang, Andrew Estornell, Yevgeniy Vorobeychik. Conference on Vehicle Security and Privacy (VehicleSec) 2023 \[TO APPEAR\]
 
-**[3] Manipulating Elections by Changing Voter Perceptions.** Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik. International Joint Conference on Artificial Intelligence (IJCAI) 2022. [[link]](https://arxiv.org/pdf/2205.00102.pdf) [[pdf](_publications/pdfs/ElectionControl2022.pdf)
+**[3] Manipulating Elections by Changing Voter Perceptions.** Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik. International Joint Conference on Artificial Intelligence (IJCAI) 2022. [[link]](https://arxiv.org/pdf/2205.00102.pdf) [[pdf]](_publications/pdfs/ElectionControl2022.pdf)
 
-**[4]  Incentivizing Truthfulness Through Audits in Strategic Classification.** Andrew Estornell, Sanmay Das, Yevgeniy Vorobeychik. Conference on Artificial Intelligence (AAAI) 2021. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/16674) [[pdf](_publications/pdfs/Audits2021.pdf)
+**[4]  Incentivizing Truthfulness Through Audits in Strategic Classification.** Andrew Estornell, Sanmay Das, Yevgeniy Vorobeychik. Conference on Artificial Intelligence (AAAI) 2021. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/16674) [[pdf]](_publications/pdfs/Audits2021.pdf)
 
 
-**[5] Election Control by Manipulating Issue Significance.** Andrew Estornell, Sanmay Das, Edith Elkind, Yevgeniy Vorobeychik.  Conference on Uncertainty in Artificial Intelligence (UAI) 2020. [[link]](https://proceedings.mlr.press/v124/estornell20a.html) [[pdf](_publications/pdfs/ElectionControl2020.pdf)
+**[5] Election Control by Manipulating Issue Significance.** Andrew Estornell, Sanmay Das, Edith Elkind, Yevgeniy Vorobeychik.  Conference on Uncertainty in Artificial Intelligence (UAI) 2020. [[link]](https://proceedings.mlr.press/v124/estornell20a.html) [[pdf]](_publications/pdfs/ElectionControl2020.pdf)
 
 
 **[6] Deception Through Half-Truths.** Andrew Estornell, Sanmay Das, Yevgeniy Vorobeychik. Conference on Artificial Intelligence (AAAI) 2020. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/6570) [[pdf]](_publications/pdfs/Deception2020.pdf)
