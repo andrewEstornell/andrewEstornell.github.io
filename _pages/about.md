@@ -20,7 +20,7 @@ As such, Algorithmic Fairness and Strategic Classification are fundamentally int
 Outside of my thesis work I have recently been pursuing Adversarial Machine Learning in the context of robustness for image recognition systems, as well as  Multi-Agent Deep Reinforcement Learning in the context of ride-sharing. 
 
 
-# Publications
+# Papers
 ------
 ### Published
 
