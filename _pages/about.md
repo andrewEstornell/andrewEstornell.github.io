@@ -41,13 +41,14 @@ Outside of my thesis work I have recently been pursuing Adversarial Machine Lear
 **[7] PBW Deformations of Quadratic Monomial Algebras.** Andrew Estornell, Zachary Cline, Chelsea Walton, Matthew Wynne.  Communications in Algebra 2019. [[link]](https://www.tandfonline.com/doi/full/10.1080/00927872.2018.1536757?casa_token=TuCNA221xeEAAAAA:St_MqmqvdsrE0qoSf_ku_7kvrOTZ5zoXXcdvRY6inE3c5d09eqxkmoTFg1opAkfhTf3baPFiIqqHxEU) [[pdf]](/assets/pdfs/PBW2019.pdf)
 
 
-### Pre-Prints and Under Review
+### Pre-Prints
 
 **[8] Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents.** Andrew Estornell, Sanmay Das, Yang Liu, Yevgeniy Vorobeychik, 2022. Appeared at, Learning with Strategic Agents Workshop **best paper award** (LSA at AAMAS 2022) and Strategic Machine Learning Workshop (StratML at NeurIPS 2021). [[link]](https://arxiv.org/pdf/2112.02746.pdf) [[pdf]](/assets/pdfs/FairnessReversal2022.pdf)
 
 
-**[9] Incentivizing Recourse through Auditing in Strategic Classification.** Andrew Estornell, Sanmay Das, Yang Liu, Yatong Chen, Yevgeniy Vorobeychik. 2023. 
+### Under Review
 
+**[9] Incentivizing Recourse through Auditing in Strategic Classification.** Andrew Estornell, Sanmay Das, Yang Liu, Yatong Chen, Yevgeniy Vorobeychik. 2023. 
 
 **[10] Which Features are the Fairest of them All? The Impact of Features Used by Algorithms on Perceptions of Fairness.** Andrew Estornell, Tina Zhang, Sanmay Das, Chien-Ju Ho, Brendan Juba, Yevgeniy Vorobeychik. 2023.
 
