@@ -9,15 +9,8 @@ redirect_from:
 ---
 
 
-I am a fifth-year PhD student studying Computer Science at Washington University in St Louis with my advisors Yevgeniy Vorobeychik and Sanmay Das. 
-My research interests fall broadly within the fields of Algorithmic Fairness, Adversarial Machine Learning, Optimization, Game Theory, and Strategic Classification.
-I enjoy working on problems which can be approached from both theoretical and applied perspectives, especially those which make use of Machine Learning in unconventional or innovative ways, and those which involve interactions between multiple strategic agents. 
+I am a research scientist at ByteDance Research working on LLM alignment and agency. 
 
-Recently my thesis work has focused on Algorithmic Fairness and Strategic Classification, with an emphasis on how these two fields relate to one another. 
-When the decisions of machine learning models are consequential enough to merit considerations of fairness (e.g. in automated lending), these decisions are also consequential enough to incentivize individuals to behave strategically. 
-As such, Algorithmic Fairness and Strategic Classification are fundamentally intertwined; the consideration of strategic behavior is paramount to the successful deployment of fair models in practice. To this end, I have been working on the development of machine learning models which are both fair and robust to manipulation by strategic agents. 
-
-Outside of my thesis work I have recently been pursuing Adversarial Machine Learning in the context of robustness for image recognition systems, as well as Multi-Agent Deep Reinforcement Learning in the context of ride-sharing. 
 
 
 
