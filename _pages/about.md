@@ -20,6 +20,9 @@ I am a research scientist at ByteDance Research working on LLM alignment and age
 
 
 # Papers
+
+Need to update, please see my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=SSW02WEAAAAJ)
+
 ------
 ### Published
 
