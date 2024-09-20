@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research scientist at ByteDance Research working on LLM alignment and agency. 
+I am a research scientist at ByteDance Research working on LLM alignment and agency. In addition to this work I also focus on algorithmic fairness and strategic agents in the context of machine learning.
 
 
 
