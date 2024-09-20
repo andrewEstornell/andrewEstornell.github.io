@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrew Estornell"
   avatar           : "img.jpg"
-  bio              : "Computer Science Ph.D candidate; ask me anything about Algorithmic fairness, Adversarial Machine Learning, or Reinforcement Learning!"
-  location         : #"St Louis Missori"
+  bio              : "Research Scientist"
+  location         : #"San Jose"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao"
-  email            : "aestornell (at) wustl (dot) edu"
+  email            : "andrew (dot) estornell (at) bytedance (dot) com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
