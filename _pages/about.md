@@ -20,7 +20,7 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=e
 
 ------
 
-**[1] ACC-Collab: An Actor Critic Approach to Multi-Agent LLM Collaboration** Andrew Estornell $^\dagger$, Jean-François Ton $^\dagger$, Yuanshun Yao, Yang Liu. International Conference on International Conference on Learning Representations (ICLR) 2025. [[paper]](https://arxiv.org/abs/2411.00053), [[pdf]](assets/pdfs/ACC_Collab_An_Actor_Critic_Approach_to_Multi_Agent_LLM_Collaboration.pdf)
+**[1] ACC-Collab: An Actor Critic Approach to Multi-Agent LLM Collaboration** Andrew Estornell $^\dagger$, Jean-François Ton $^\dagger$, Yuanshun Yao, Yang Liu. International Conference on International Conference on Learning Representations (ICLR) 2025. [[paper]](https://arxiv.org/abs/2411.00053), [[pdf]](/assets/pdfs/ACC_Collab_An_Actor_Critic_Approach_to_Multi_Agent_LLM_Collaboration.pdf)
 
 **[2] Multi-LLM Debate: Framework, Principals, and Interventions**  Andrew Estornell, Yang Liu. Advances in Neural Information Processing Systems (NeurIPS) 2024. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/32e07a110c6c6acf1afbf2bf82b614ad-Paper-Conference.pdf)
 
