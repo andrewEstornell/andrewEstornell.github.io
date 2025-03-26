@@ -16,7 +16,7 @@ I am a research scientist at ByteDance Research working on LLMs with focus on al
 
 # Papers
 
-Please see my [Google Scholar profile]](https://scholar.google.com/citations?hl=en&user=SSW02WEAAAAJ) for a full list of publications.
+Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=SSW02WEAAAAJ) for a full list of publications.
 
 ------
 
