@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrew Estornell"
   avatar           : "img.jpg"
-  bio              : "Research Scientist"
+  bio              : "Senior Research Scientist"
   location         : #"San Jose"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=SSW02WEAAAAJ&hl=en&oi=ao"
-  email            : "andrew (dot) estornell (at) bytedance (dot) com"
+  email            : "andrew (dot) estornell (at) gmail (dot) com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
